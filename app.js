@@ -1,4 +1,4 @@
-const test = require('./listNode.js')
+const test = require('./lib/listNode.js')
 
 const Node = test.Node
 const node1 = new Node('1',null)
