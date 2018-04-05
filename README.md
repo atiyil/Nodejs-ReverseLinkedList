@@ -17,7 +17,7 @@ Install Node 8.9 or later (only even versions)
 
 ## Running tests
 * Go to the 'test' folder
-* Type: `node path-to-testfile
+* Type: `node path-to-testfile`
 
 ## Documentation
 * Update this document when needed
