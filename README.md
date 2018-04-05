@@ -13,11 +13,11 @@ Install Node 8.9 or later (only even versions)
 ## Application Start
 * Open a terminal
 * Go to the source folder 
-* Type: node app.js
+* Type: `node app.js`
 
 ## Running tests
 * Go to the 'test' folder
-* Type: node path-to-testfile
+* Type: `node path-to-testfile
 
 ## Documentation
 * Update this document when needed
